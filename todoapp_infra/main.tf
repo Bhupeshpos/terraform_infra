@@ -96,7 +96,7 @@ module "frontend_vm2" {
 #   allocation_method   = "Static"
 # }
 
-#har har mahadev jai ho
+#har har mahadev jai ho jkl
 
 
 # module "backend_vm" {
