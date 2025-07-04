@@ -96,7 +96,7 @@ module "frontend_vm2" {
 #   allocation_method   = "Static"
 # }
 
-
+#har har
 
 
 # module "backend_vm" {
